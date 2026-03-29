@@ -71,3 +71,5 @@ if __name__ == "__main__":
                 print(Fore.GREEN + summary)
             else:
                 print(Fore.RED + "✕ Failed to generate summary.")
+
+#ACP
